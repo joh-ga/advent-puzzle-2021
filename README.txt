@@ -1,15 +1,10 @@
 Project description: website with embedded advent calendar of 2021.
 
-
-
-
-
-
 Credits:
 	Highlights by HTML5 UP
 	html5up.net | @ajlkn
 	Demo Images: Unsplash (unsplash.com)
-	Icons: Font Awesome (fontawesome.io)
+	Icon: Freepik(freepik.com) from Flaticon (flaticon.com)
 	Other:
 	jQuery (jquery.com)
 	Scrollex (github.com/ajlkn/jquery.scrollex)
