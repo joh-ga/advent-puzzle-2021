@@ -1,4 +1,5 @@
-Project description: website with embedded advent calendar of 2021.
+Project description: GitHub Pages website with embedded advent calendar of 2021.
+Page is deactivated.
 
 Credits:
 	Highlights by HTML5 UP
